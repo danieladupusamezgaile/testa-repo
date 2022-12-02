@@ -1,1 +1,2 @@
 Jauna funkcionalitāte
+Jauna relīze
